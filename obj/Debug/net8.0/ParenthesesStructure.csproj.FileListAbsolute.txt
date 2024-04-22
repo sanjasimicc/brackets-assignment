@@ -12,3 +12,4 @@
 /home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.pdb
 /home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.genruntimeconfig.cache
 /home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ref/ParenthesesStructure.dll
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.sourcelink.json

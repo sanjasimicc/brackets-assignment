@@ -4,10 +4,7 @@ public class ParenthesesStructure {
     public static bool IsValidExpression(string expression)
     {
         Stack<char> stack = new Stack<char>();
-        var car = expression.FirstOrDefault(c => c =='(' || c == '[' || c == '{' || c == '<' || c == ')' || c == ']' || c == '}' || c == '>' );
-        stack.Push(car);
-        var index = expression.IndexOf(car);
-        for (int i = index + 1; i < expression.Length; i++) 
+        for (int i = 0; i < expression.Length; i++) 
         {
             char c = expression[i];
             if(stack.Count() == 0) 
