@@ -1,0 +1,14 @@
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/bin/Debug/net8.0/ParenthesesStructure
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/bin/Debug/net8.0/ParenthesesStructure.deps.json
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/bin/Debug/net8.0/ParenthesesStructure.runtimeconfig.json
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/bin/Debug/net8.0/ParenthesesStructure.dll
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/bin/Debug/net8.0/ParenthesesStructure.pdb
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.AssemblyInfoInputs.cache
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.AssemblyInfo.cs
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.csproj.CoreCompileInputs.cache
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.dll
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/refint/ParenthesesStructure.dll
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.pdb
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ParenthesesStructure.genruntimeconfig.cache
+/home/sigmoid/Desktop/Praksa/BracketsAssignment/ParenthesesStructure/obj/Debug/net8.0/ref/ParenthesesStructure.dll
